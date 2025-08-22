@@ -1,3 +1,4 @@
+<<<<<<< HEAD
          ___        ______     ____ _                 _  ___  
         / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
        / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
@@ -12,3 +13,6 @@ To get started, create some files, play with the terminal,
 or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
 
 Happy coding!
+=======
+# echohub1
+>>>>>>> 26275e6a03152cce585ac30c9078f27d6c036be2
